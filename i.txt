@@ -1,0 +1,8 @@
+<i class="fa-sharp fa-solid fa-earth-africa fa-3x"></i>  
+
+
+ <i class="fa-sharp fa-solid fa-gem fa-3x"></i>
+
+
+<i class="fas fa-magic fa-3x"></i>
+ 
